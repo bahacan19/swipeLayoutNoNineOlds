@@ -7,12 +7,12 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.daimajia.androidanimations.library.Techniques;
-import com.daimajia.androidanimations.library.YoYo;
 import com.daimajia.swipe.SimpleSwipeListener;
 import com.daimajia.swipe.SwipeLayout;
 import com.daimajia.swipe.adapters.BaseSwipeAdapter;
 import com.daimajia.swipedemo.R;
+import com.daimajia.swipedemo.Techniques;
+import com.daimajia.swipedemo.YoYo;
 
 public class ListViewAdapter extends BaseSwipeAdapter {
 
